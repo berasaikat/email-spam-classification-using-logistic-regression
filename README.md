@@ -1,6 +1,6 @@
 # Email Spam Classification Using Logistic Regression
 
-In this project, we employed a Logistic Regression model for the task of spam classification. The goal was to distinguish between spam and non-spam (normal) emails using machine learning techniques.
+In this project, I employed a Logistic Regression model for the task of spam classification. The goal was to distinguish between spam and non-spam (normal) emails using machine learning techniques.
 
 ## Data Preprocessing
 
